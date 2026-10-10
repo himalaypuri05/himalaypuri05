@@ -1,43 +1,160 @@
-<div align="center">
+ <div align="center">
 
-# Himalay Puri
+# HIMALAY PURI
 
-**Full Stack Developer & Aspiring Systems Engineer**  
-Building resilient backend services, scalable web products, and intentional software.
+### `FULL STACK DEVELOPER` · `SOFTWARE ENGINEERING`
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-0A66C2?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-kufb4blqq-himalaypuri05s-projects.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-himalaypuri05-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himalaypuri05)
-[![GitHub](https://img.shields.io/badge/GitHub-himalaypuri05-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/himalaypuri05)
-[![Email](https://img.shields.io/badge/Email-himalaypuri05%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:himalaypuri05@gmail.com)
+**Turning complex problems into thoughtful software.**
+
+I build web applications, engineer backend services,  
+and explore the systems and decisions behind reliable software.
+
+<br/>
+
+[**Portfolio ↗**](https://portfolio-kufb4blqq-himalaypuri05s-projects.vercel.app/) &nbsp; · &nbsp; [**LinkedIn ↗**](https://www.linkedin.com/in/himalaypuri05) &nbsp; · &nbsp; [**GitHub ↗**](https://github.com/himalaypuri05) &nbsp; · &nbsp; [**Email ↗**](mailto:himalaypuri05@gmail.com)
 
 </div>
 
 ---
 
-### 💡 Engineering Ethos
+## 01 / THE ENGINEERING MINDSET
 
-> *"Great software starts with deeply understanding the problem, not writing code."*
+> *Great software starts with understanding the problem, not writing the code.*
 
-I approach software engineering with an emphasis on clarity, reliability, and sound architecture. Rather than treating development as an exercise in assembling libraries, I focus on why systems are built the way they are—how data moves across the wire, where bottlenecks emerge, and how deliberate architectural decisions prevent future failure modes.
+I'm a Full Stack Developer at **Botivate Services LLP**, interested in building software that is useful, maintainable, and reliable.
 
-Currently working as a **Full Stack Developer at Botivate Services LLP**, I spend my time building practical web systems, crafting maintainable REST APIs, and deepening my understanding of system design, backend architectures, and end-to-end reliability.
+For me, engineering goes beyond making features work. It means understanding how data flows, choosing the right abstractions, anticipating failure cases, and making decisions that keep systems easier to evolve.
+
+I'm building toward deeper expertise in **backend engineering, system architecture, and software design**—one problem, one implementation, and one lesson at a time.
+
+## 02 / WHAT I CARE ABOUT
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Backend Engineering
+
+Designing REST APIs, authentication flows, data models, and predictable request lifecycles.
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Software Design
+
+Writing modular code with clear responsibilities, sensible abstractions, and maintainability in mind.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Data & Reliability
+
+Understanding database design, data integrity, error handling, and secure access to application resources.
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Product Engineering
+
+Connecting frontend experiences, backend logic, and external services into cohesive applications.
+
+</td>
+</tr>
+</table>
+
+## 03 / SELECTED WORK
+
+### [01 — iNotebook ↗](https://github.com/himalaypuri05/iNoteBook)
+
+**A full stack note management application**
+
+User-specific note management with authentication, protected routes, and CRUD operations.
+
+`React.js` `Node.js` `Express.js` `MongoDB` `JWT`
+
+### [02 — NewsMonkey ↗](https://github.com/himalaypuri05/NewsMonkey)
+
+**A dynamic news browsing experience**
+
+A React application integrating news APIs, category-based browsing, and infinite scrolling.
+
+`React.js` `JavaScript` `REST APIs`
+
+### [03 — Turf-Nation ↗](https://turf-nation-pi.vercel.app/login)
+
+**Football-focused web application**
+
+An application exploring user access, role-based workflows, and interactive web experiences.
+
+`React.js` `Node.js` `Express.js` `REST APIs`
+
+### [04 — TextUtils ↗](https://github.com/himalaypuri05/TextUtils)
+
+**Small utilities. Focused interactions.**
+
+A text-processing application built around reusable components and interactive UI functionality.
+
+`React.js` `JavaScript`
+
+### [Explore all projects ↗](https://github.com/himalaypuri05?tab=repositories)
+
+More experiments, implementations, and work in progress.
+
+## 04 / THE TOOLKIT
+
+```yaml
+languages:
+  - JavaScript
+  - SQL
+  - HTML5
+  - CSS3
+
+frontend:
+  - React.js
+  - React Router
+  - Tailwind CSS
+  - Bootstrap
+
+backend:
+  - Node.js
+  - Express.js
+  - REST APIs
+  - JWT Authentication
+
+databases:
+  - MongoDB
+  - MySQL
+  - Supabase
+
+tools:
+  - Git
+  - GitHub
+  - Postman
+  - VS Code
+
+deployment:
+  - Vercel
+  - Render
+```
+
+## 05 / THE DIRECTION
+
+I'm continuing to strengthen my foundations in backend development, database architecture, TypeScript, application security, and system design.
+
+The goal isn't to collect technologies. It's to understand them well enough to make better engineering decisions.
+
+<div align="center">
 
 ---
 
-### 🔍 Areas of Focus
+### BUILD WITH INTENT. UNDERSTAND THE SYSTEM. KEEP IMPROVING.
 
-- **Backend & Systems Architecture**: Designing predictable RESTful APIs, request pipelines, relational and document data schemas, and role-based access control (RBAC).
-- **Core Problem Solving**: Breaking ambiguous product challenges down into modular, testable components with clean separation of concerns.
-- **Frontend Craft**: Engineering clean, accessible interfaces using React and modern CSS without sacrificing runtime efficiency.
-- **Continuous Growth**: Actively studying distributed system fundamentals, performance profiling, and fault-tolerant software patterns.
+*Curiosity drives the questions. Engineering turns the answers into software.*
 
----
+<br/>
 
-### 🛠️ Technical Toolkit
+[Portfolio](https://portfolio-kufb4blqq-himalaypuri05s-projects.vercel.app/) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/himalaypuri05) &nbsp; · &nbsp; [Contact](mailto:himalaypuri05@gmail.com)
 
-```text
-Languages & Core    :: JavaScript (ES6+), HTML5, CSS3, SQL
-Backend & APIs      :: Node.js, Express.js, RESTful Architecture, JWT & Auth Patterns
-Data Systems        :: MongoDB (Mongoose), MySQL, Database Modeling & Normalization
-Frontend & UI       :: React.js, React Router, Context API, Vanilla Web Technologies
-Tooling & Delivery  :: Git, GitHub Workflows, Postman, Cloudinary, Vercel
+</div>
